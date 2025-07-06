@@ -4,8 +4,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theepar&show_icons=true&theme=tokyonight&hide_title=true&hide=contribs&card_width=400" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theepar&layout=compact&theme=tokyonight&langs_count=8" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theepar&show_icons=true&theme=tokyonight&hide_title=true&hide=contribs&card_width=400" width="45%" height="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theepar&layout=compact&theme=tokyonight&langs_count=8" width="45%" height="45%"/>
 </p>
 
 <!-- GitHub Streak -->
