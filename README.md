@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Deva Gundhala</h1>
-<h3 align="center">🧑‍💻 Front-End Developer | TypeScript Enthusiast | Telkom University</h3>
+<h3 align="center">🧑‍💻 Front-End Developer | TypeScript & Laravel Developer | Telkom University</h3>
 
 ---
 
@@ -12,13 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theepar&layout=compact&theme=tokyonight&langs_count=8" width="45%"/>
 </p>
 
-
 ---
 
 ### 🚀 My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,js,html,css,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,php,laravel,nodejs,git,github,vscode" />
 </p>
 
 ---
@@ -35,10 +34,11 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently working on `reservation-check` & `joglobreeze`
-- 🌱 Learning Laravel + API Security
-- 🎓 Student at Telkom University
-- 🎯 Goal: Build scalable and clean front-end architecture
+- 🔭 Currently building `reservation-check` & `joglobreeze`
+- 💻 Comfortable working with Laravel & TypeScript-based stacks
+- 🌱 Learning API security and Laravel ecosystem best practices
+- 🎓 Informatics student at Telkom University
+- 🎯 Passionate about building efficient, scalable, and clean front-end architectures
 
 ---
 
