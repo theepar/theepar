@@ -37,7 +37,7 @@
 - 🔭 Currently building `reservation-check` & `joglobreeze`
 - 💻 Comfortable working with Laravel & TypeScript-based stacks
 - 🌱 Learning API security and Laravel ecosystem best practices
-- 🎓 Informatics student at Telkom University
+- 🎓 Software Engineering Student at Telkom University
 - 🎯 Passionate about building efficient, scalable, and clean front-end architectures
 
 ---
