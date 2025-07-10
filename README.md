@@ -5,7 +5,7 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theepar&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theepar&layout=compact&theme=tokyonight&langs_count=8" width="45%"/>
 </p>
 
 ---
