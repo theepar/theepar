@@ -18,6 +18,17 @@
 
 ---
 
+### 🌐 Featured Projects
+
+<p align="center">
+  <a href="https://axiom-build.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Axiom-Build-blueviolet?style=for-the-badge" /></a>
+  <a href="https://joglobreeze.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Joglobreeze-orange?style=for-the-badge" /></a>
+  <a href="https://metastarted.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Metastart-black?style=for-the-badge" /></a>
+  <a href="https://reservcheck.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/ReservCheck-teal?style=for-the-badge" /></a>
+</p>
+
+---
+
 ### 📌 Find Me On
 
 <p align="center">
