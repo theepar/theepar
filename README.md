@@ -20,19 +20,20 @@
 
 ### 🌐 Featured Projects
 
-- 🔹 [**Axiom**](https://axiom-build.vercel.app/)  
-  Platform task manager minimalis dengan tampilan modern, dibangun menggunakan Next.js + TailwindCSS. Fokus pada efisiensi tim & pengelolaan pekerjaan harian.
+- 🌐 [**Axiom**](https://axiom-build.vercel.app/)  
+  Platform **AI-based** untuk generate desain **website** dan langsung **hosting**. Cocok untuk membuat landing page instan tanpa perlu coding manual.
 
-- 🟠 [**Joglobreeze**](https://joglobreeze.vercel.app/)  
-  Website katalog hunian co-living dengan fitur pencarian dan filter berdasarkan lokasi dan fasilitas. Dirancang untuk startup perumahan bersama.
+- 🏡 [**Joglobreeze**](https://joglobreeze.vercel.app/)  
+  Website yang memperkenalkan **penginapan bergaya rumah Joglo di Bali**, menggabungkan nuansa tradisional dan kenyamanan modern untuk wisatawan.
 
-- ⚫ [**Metastart**](https://metastarted.vercel.app/)  
-  Template portofolio startup berbasis modern UI/UX untuk menampilkan produk, tim, dan layanan. Menggunakan stack Next.js dan Tailwind.
+- 🦊 [**Metastart**](https://metastarted.vercel.app/)  
+  Platform edukasi dan showcase tentang dunia **Web3** dengan integrasi **Metamask** sebagai pintu masuk ke teknologi blockchain dan desentralisasi.
 
-- 🟢 [**ReservCheck**](https://reservcheck.vercel.app/)  
-  Dashboard untuk mengecek status booking villa dari data eksternal (Airbnb iCal). Mengusung konsep channel manager sederhana untuk properti.
+- 📅 [**ReservCheck**](https://reservcheck.vercel.app/)  
+  Dashboard untuk memonitor **booking properti dari Airbnb & Booking.com** secara otomatis melalui integrasi iCal. Membantu pemilik villa mengelola reservasi dengan lebih efisien.
 
 ---
+
 
 
 ### 📌 Find Me On
