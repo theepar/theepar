@@ -20,14 +20,20 @@
 
 ### 🌐 Featured Projects
 
-<p align="center">
-  <a href="https://axiom-build.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Axiom-Build-blueviolet?style=for-the-badge" /></a>
-  <a href="https://joglobreeze.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Joglobreeze-orange?style=for-the-badge" /></a>
-  <a href="https://metastarted.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Metastart-black?style=for-the-badge" /></a>
-  <a href="https://reservcheck.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/ReservCheck-teal?style=for-the-badge" /></a>
-</p>
+- 🔹 [**Axiom**](https://axiom-build.vercel.app/)  
+  Platform task manager minimalis dengan tampilan modern, dibangun menggunakan Next.js + TailwindCSS. Fokus pada efisiensi tim & pengelolaan pekerjaan harian.
+
+- 🟠 [**Joglobreeze**](https://joglobreeze.vercel.app/)  
+  Website katalog hunian co-living dengan fitur pencarian dan filter berdasarkan lokasi dan fasilitas. Dirancang untuk startup perumahan bersama.
+
+- ⚫ [**Metastart**](https://metastarted.vercel.app/)  
+  Template portofolio startup berbasis modern UI/UX untuk menampilkan produk, tim, dan layanan. Menggunakan stack Next.js dan Tailwind.
+
+- 🟢 [**ReservCheck**](https://reservcheck.vercel.app/)  
+  Dashboard untuk mengecek status booking villa dari data eksternal (Airbnb iCal). Mengusung konsep channel manager sederhana untuk properti.
 
 ---
+
 
 ### 📌 Find Me On
 
