@@ -30,7 +30,7 @@
 
 ### 💡 About Me
 
-- 🔭 Currently building `reservation-check` & `joglobreeze`
+- 🔭 Currently building `metastart` & `axiom`
 - 💻 Comfortable working with Laravel & TypeScript-based stacks
 - 🌱 Learning API security and Laravel ecosystem best practices
 - 🎓 Software Engineering Student at Telkom University
