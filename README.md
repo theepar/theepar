@@ -39,7 +39,6 @@ Platform edukasi dan showcase tentang dunia Web3 dengan integrasi Metamask sebag
 
 <p align="center">📊 My GitHub Stats</p>
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtheepar%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Deva's GitHub Stats" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theepar&layout=compact&theme=tokyonight&langs_count=8" alt="Deva's Top Languages" width="48%"/>
 </p>
 
