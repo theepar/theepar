@@ -18,6 +18,7 @@ I'm a Software Engineering student at Telkom University with a strong passion fo
 </p>
 
 🌐 Featured Projects
+
 <a href="https://dewataweb.vercel.app/">🏡 Dewata Villa Management</a>
 Website manajemen properti dan villa di Bali, dibangun dengan Next.js dan Tailwind CSS. Fitur meliputi daftar properti, galeri, dan desain yang sepenuhnya responsif.
 
