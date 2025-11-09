@@ -8,7 +8,7 @@ I'm a Software Engineering student at Telkom University with a strong passion fo
 
 🔭 Currently building metastart & axiom.
 
-🌱 Learning API security and advanced Laravel ecosystem practices.
+🌱 Learning Next JS and Laravel.
 
 📫 How to reach me: devagunow@gmail.com
 
@@ -16,23 +16,6 @@ I'm a Software Engineering student at Telkom University with a strong passion fo
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,php,laravel,nodejs,git,github,vscode" alt="My Skills" />
 </p>
-
-🌐 Featured Projects
-
-<a href="https://dewataweb.vercel.app/">🏡 Dewata Property</a>
-- Website manajemen properti dan villa di Bali, dibangun dengan Next.js dan Tailwind CSS. Fitur meliputi daftar properti, galeri, dan desain yang sepenuhnya responsif.
-
-<a href="https://reservcheck.vercel.app/">📅 ReservCheck</a>
-- Dashboard untuk memonitor booking properti dari Airbnb & Booking.com secara otomatis melalui integrasi iCal. Membantu pemilik villa mengelola reservasi dengan lebih efisien.
-
-<a href="https://axiom-build.vercel.app/">🌐 Axiom</a>
-- Platform AI-based untuk generate desain website dan langsung hosting. Cocok untuk membuat landing page instan tanpa perlu coding manual.
-
-<a href="https://joglobreeze.vercel.app/">🏡 Joglobreeze</a>
-- Website yang memperkenalkan penginapan bergaya rumah Joglo di Bali, menggabungkan nuansa tradisional dan kenyamanan modern untuk wisatawan.
-
-<a href="https://metastarted.vercel.app/">🦊 Metastart</a>
-- Platform edukasi dan showcase tentang dunia Web3 dengan integrasi Metamask sebagai pintu masuk ke teknologi blockchain dan desentralisasi.
 
 <br>
 
