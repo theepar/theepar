@@ -24,12 +24,20 @@ I'm a Software Engineering student at Telkom University with a strong passion fo
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theepar&layout=compact&theme=tokyonight&langs_count=8" alt="Deva's Top Languages" width="48%"/>
 </p>
 
-📌 Connect with Me
-<p align="center">
-<a href="mailto:devagunow@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://linkedin.com/in/devagundhala181"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://instagram.com/sythepar"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+<br>
+
+## 📂 Featured Projects
+
+Here are some of the projects I'm currently working on.
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Metastart** | A scalable platform built to solve [Specific Problem]. Features include [Feature A], [Feature B]. | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | [🌐 Demo](https://theepar.vercel.app/) <br> [💻 Code](#) |
+| **Axiom** | An efficient application designed for [Target User]. Focuses on clean architecture and performance. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [🌐 Demo](https://theepar.vercel.app/) <br> [💻 Code](#) |
+
+> 🚀 **[Explore my full portfolio at theepar.vercel.app](https://theepar.vercel.app/)**
+
+<br>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=theepar&label=Profile+views&color=blueviolet&style=flat" alt="Profile Views"/>
