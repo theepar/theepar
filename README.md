@@ -10,7 +10,7 @@ I'm a Software Engineering student at Telkom University with a strong passion fo
 
 🌱 Learning Next JS and Laravel.
 
-📫 How to reach me: https://theepar.vercel.app/
+📫 How to reach me: https://devagundhala.site/
 
 🚀 My Toolbox
 <p align="center">
