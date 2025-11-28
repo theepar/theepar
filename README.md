@@ -10,8 +10,6 @@ I'm a Software Engineering student at Telkom University with a strong passion fo
 
 🌱 Learning Next JS and Laravel.
 
-📫 How to reach me: https://devagundhala.site/
-
 🚀 My Toolbox
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,php,laravel,nodejs,git,github,vscode" alt="My Skills" />
