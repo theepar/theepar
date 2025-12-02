@@ -6,7 +6,7 @@
 👨‍💻 About Me
 I'm a Software Engineering student at Telkom University with a strong passion for building efficient, scalable, and clean front-end architectures. I am most comfortable working with stacks based on TypeScript and Laravel.
 
-🔭 Currently building metastart & axiom.
+🔭 Currently building axiom.
 
 🌱 Learning Next JS and Laravel.
 
