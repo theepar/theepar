@@ -31,7 +31,7 @@ I am a Software Engineering student at **Telkom University**. Grounded in **Fron
       <ul>
         <li><strong>Clean Architecture:</strong> Scalable enterprise patterns with TypeScript, React/Next.js & Laravel.</li>
         <li><strong>Application Security:</strong> Zero-Plaintext paradigms, Client-Side AES-256-GCM encryption & secure session flows.</li>
-        <li><strong>Active Ecosystems:</strong> Maintainer & Developer of <strong>VELYN Ecosystem</strong>, <strong>yhvrecord</strong>, and <strong>Miside Zero</strong>.</li>
+        <li><strong>Active Ecosystems:</strong> Maintainer & Developer of <strong>VELYN Ecosystem</strong>.</li>
       </ul>
     </td>
   </tr>
