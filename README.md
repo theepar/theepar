@@ -58,8 +58,6 @@ I am a Software Engineering student at **Telkom University**. Grounded in **Fron
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=theepar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theepar&theme=tokyo-night&hide_border=true" alt="Deva's Contribution Graph" width="95%" />
 </div>
 
 ---
