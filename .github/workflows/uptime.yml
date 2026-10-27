@@ -1,0 +1,28 @@
+name: uptime
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update uptime
+        run: |
+          START=$(date -u -d '2020-11-19 00:00:00' +%s)
+          NOW=$(date -u +%s)
+          HOURS=$(( (NOW - START) / 3600 ))
+          sed -i -E "s/up [0-9]+ hours/up ${HOURS} hours/" README.md
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git commit -am "chore: uptime" && git push)
