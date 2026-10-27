@@ -9,7 +9,7 @@ $ echo $STACK
 ???
 
 $ cat ~/.plan
-- write less code, delete more
+- write less code, prompt more
 - never push on morning
 
 $ uptime
